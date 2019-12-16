@@ -1,1 +1,0 @@
-# My-First-code-in-C
